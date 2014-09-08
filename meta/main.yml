@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Gerardo Cepeda Porras
+  description: 
+  company:
+  license: license MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+  - system
+dependencies: []
+version: 1.0.0

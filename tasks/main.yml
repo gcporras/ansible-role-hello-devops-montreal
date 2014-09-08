@@ -1,0 +1,4 @@
+---
+# tasks file for ansible-role-hello-devops-montreal
+- name: Say hello to the audience
+  debug: msg="Hello! DevOps Montreal"
