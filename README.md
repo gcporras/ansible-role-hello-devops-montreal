@@ -3,7 +3,7 @@ ansible-role-hello-devops-montreal
 
 A sample role that prints: "Hello! DevOps Montreal".
 
-Used for DevOps Montreal Get Back to Work edition - September 2014.
+Used for [DevOps Montreal](http://www.devopsmtl.com) Get Back to Work edition - September 2014.
 
 Presentation Title: [Create your Orchestration Galaxy With Ansible](https://speakerdeck.com/gerardocepeda/create-your-orchestration-galaxy-with-ansible)
 
